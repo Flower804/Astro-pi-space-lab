@@ -9,7 +9,7 @@ mb = 5.972*math.pow(10, 24) #massa terra (kg)
 a = 8.69 #tempory change when acess to sensores is available
 
 #igualando a lei da gravitação universal com a segunda lei de newton
-#we can igualate the distance(ISS, EARTH)
+#we can igualat the distance(ISS, EARTH)
 
 r = math.sqrt(G*(mb/a)) #calculo do raio da orbita
 
